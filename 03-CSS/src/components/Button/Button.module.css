@@ -1,0 +1,15 @@
+.btn {
+    background-color: red;
+    width: fit-content;
+    margin: 10 px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.header button {
+    background-color: black;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+}
